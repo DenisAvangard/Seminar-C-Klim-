@@ -13,3 +13,18 @@ C:\Users\Ден\Desktop\GB\ccm\Seminar _5\Decide youself\zadacha34\obj\Debug\net
 C:\Users\Ден\Desktop\GB\ccm\Seminar _5\Decide youself\zadacha34\obj\Debug\net6.0\zadacha34.pdb
 C:\Users\Ден\Desktop\GB\ccm\Seminar _5\Decide youself\zadacha34\obj\Debug\net6.0\zadacha34.genruntimeconfig.cache
 C:\Users\Ден\Desktop\GB\ccm\Seminar _5\Decide youself\zadacha34\obj\Debug\net6.0\ref\zadacha34.dll
+C:\Users\Ден\Desktop\GB\Seminar C# Klim\Seminar 5 Klim\zadacha34\bin\Debug\net6.0\zadacha34.exe
+C:\Users\Ден\Desktop\GB\Seminar C# Klim\Seminar 5 Klim\zadacha34\bin\Debug\net6.0\zadacha34.deps.json
+C:\Users\Ден\Desktop\GB\Seminar C# Klim\Seminar 5 Klim\zadacha34\bin\Debug\net6.0\zadacha34.runtimeconfig.json
+C:\Users\Ден\Desktop\GB\Seminar C# Klim\Seminar 5 Klim\zadacha34\bin\Debug\net6.0\zadacha34.dll
+C:\Users\Ден\Desktop\GB\Seminar C# Klim\Seminar 5 Klim\zadacha34\bin\Debug\net6.0\zadacha34.pdb
+C:\Users\Ден\Desktop\GB\Seminar C# Klim\Seminar 5 Klim\zadacha34\obj\Debug\net6.0\zadacha34.csproj.AssemblyReference.cache
+C:\Users\Ден\Desktop\GB\Seminar C# Klim\Seminar 5 Klim\zadacha34\obj\Debug\net6.0\zadacha34.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ден\Desktop\GB\Seminar C# Klim\Seminar 5 Klim\zadacha34\obj\Debug\net6.0\zadacha34.AssemblyInfoInputs.cache
+C:\Users\Ден\Desktop\GB\Seminar C# Klim\Seminar 5 Klim\zadacha34\obj\Debug\net6.0\zadacha34.AssemblyInfo.cs
+C:\Users\Ден\Desktop\GB\Seminar C# Klim\Seminar 5 Klim\zadacha34\obj\Debug\net6.0\zadacha34.csproj.CoreCompileInputs.cache
+C:\Users\Ден\Desktop\GB\Seminar C# Klim\Seminar 5 Klim\zadacha34\obj\Debug\net6.0\zadacha34.dll
+C:\Users\Ден\Desktop\GB\Seminar C# Klim\Seminar 5 Klim\zadacha34\obj\Debug\net6.0\refint\zadacha34.dll
+C:\Users\Ден\Desktop\GB\Seminar C# Klim\Seminar 5 Klim\zadacha34\obj\Debug\net6.0\zadacha34.pdb
+C:\Users\Ден\Desktop\GB\Seminar C# Klim\Seminar 5 Klim\zadacha34\obj\Debug\net6.0\zadacha34.genruntimeconfig.cache
+C:\Users\Ден\Desktop\GB\Seminar C# Klim\Seminar 5 Klim\zadacha34\obj\Debug\net6.0\ref\zadacha34.dll

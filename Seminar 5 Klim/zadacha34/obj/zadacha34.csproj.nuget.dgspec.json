@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ден\\Desktop\\GB\\ccm\\Seminar _5\\Decide youself\\zadacha34\\zadacha34.csproj": {}
+    "C:\\Users\\Ден\\Desktop\\GB\\Seminar C# Klim\\Seminar 5 Klim\\zadacha34\\zadacha34.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ден\\Desktop\\GB\\ccm\\Seminar _5\\Decide youself\\zadacha34\\zadacha34.csproj": {
+    "C:\\Users\\Ден\\Desktop\\GB\\Seminar C# Klim\\Seminar 5 Klim\\zadacha34\\zadacha34.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ден\\Desktop\\GB\\ccm\\Seminar _5\\Decide youself\\zadacha34\\zadacha34.csproj",
+        "projectUniqueName": "C:\\Users\\Ден\\Desktop\\GB\\Seminar C# Klim\\Seminar 5 Klim\\zadacha34\\zadacha34.csproj",
         "projectName": "zadacha34",
-        "projectPath": "C:\\Users\\Ден\\Desktop\\GB\\ccm\\Seminar _5\\Decide youself\\zadacha34\\zadacha34.csproj",
+        "projectPath": "C:\\Users\\Ден\\Desktop\\GB\\Seminar C# Klim\\Seminar 5 Klim\\zadacha34\\zadacha34.csproj",
         "packagesPath": "C:\\Users\\Ден\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ден\\Desktop\\GB\\ccm\\Seminar _5\\Decide youself\\zadacha34\\obj\\",
+        "outputPath": "C:\\Users\\Ден\\Desktop\\GB\\Seminar C# Klim\\Seminar 5 Klim\\zadacha34\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ден\\AppData\\Roaming\\NuGet\\NuGet.Config"
