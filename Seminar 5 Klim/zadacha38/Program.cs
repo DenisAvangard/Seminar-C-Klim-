@@ -8,6 +8,7 @@ double[] GetArrayRandom(int size)
     for (int i = 0; i < array.Length; i++)
     {
         array[i] = new Random().NextDouble();
+        array[i] = Math.Round(array[i], 5);
     }
     return array;
 }
@@ -22,20 +23,29 @@ void PrintArray(double[] GetArrayRandom)
 double[] array2 = GetArrayRandom(size);
 PrintArray(array2);
 
-double min = array2[0];
-double max = array2[0];
-for (int i = 1; i < array2.Length; i++)
+
+void DiffBetwMaxMin(double[] array2)
 {
-    if(array2[i] < min)
+    double min = array2[0];
+    double max = array2[0];
+    for (int i = 1; i < array2.Length; i++)
     {
-        min = array2[i];
+        if(array2[i] < min)
+        {
+            min = array2[i];
+        }
+        if(array2[i] > max)
+        {
+            max = array2[i];
+        }
     }
-    if(array2[i] > max)
-    {
-        max = array2[i];
-    }
+    min = Math.Round(min, 5);
+    max = Math.Round(max, 5);
+    double Difference = max - min;
+    Console.WriteLine();
+    Console.WriteLine($"Разница между максимальным и минимальным элементов массива = {Difference}");
 }
 
-double Difference = max - min;
-Console.WriteLine();
-Console.WriteLine($"Разница между максимальным и минимальным элементов массива = {Difference}");
+DiffBetwMaxMin(array2);
+
+
