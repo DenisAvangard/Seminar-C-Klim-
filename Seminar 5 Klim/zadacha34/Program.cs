@@ -26,13 +26,20 @@ PrintArray(array2);
 
 
 //int[]array = new int[] {321, 561, 555, 459, 693, 767, 429, 123};
-int count = 0;
-for (int i = 0; i < array2.Length; i++)
-{
-    if(array2[i] % 2 == 0)
-    {
-        count++;
-    }    
-}
+
+
+
+     int count = 0;
+        for (int i = 0; i < array2.Length; i++)
+        {
+            if(array2[i] % 2 == 0)
+            {
+                 count++;
+            }    
+        }
+
+
+
+
 Console.WriteLine();
 Console.WriteLine($"Количество четных чисел в массиве: {count}");
