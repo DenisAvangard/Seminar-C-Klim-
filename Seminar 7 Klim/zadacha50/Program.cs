@@ -5,9 +5,9 @@ Console.Write("Введите количество рядов двумерног
 int row = int.Parse(Console.ReadLine()!);
 Console.Write("Введите количество столбцов двумерного массива: ");
 int column = int.Parse(Console.ReadLine()!);
-Console.Write("Введите min позицию: ");
+Console.Write("Введите min значение элементов матрицы: ");
 int min = int.Parse(Console.ReadLine()!);
-Console.Write("Введите max позицию: ");
+Console.Write("Введите max значение элементов матрицы: ");
 int max = int.Parse(Console.ReadLine()!);
 
 

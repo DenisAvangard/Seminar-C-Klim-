@@ -4,9 +4,9 @@ Console.Write("Введите количество рядов двумерног
 int row = int.Parse(Console.ReadLine()!);
 Console.Write("Введите количество столбцов двумерного массива: ");
 int column = int.Parse(Console.ReadLine()!);
-Console.Write("Введите min позицию: ");
+Console.Write("Введите min значение элементов матрицы: ");
 int min = int.Parse(Console.ReadLine()!);
-Console.Write("Введите max позицию: ");
+Console.Write("Введите max значение элементов матрицы: ");
 int max = int.Parse(Console.ReadLine()!);
 
 
@@ -39,20 +39,18 @@ void PrintMatrix(int[,] mtrx)
 
 void ArithmeticMeanColumn(int[,] array)
 {
-
-    for (int j = 0; j < array.GetLength(0); j++)
+    for (int i = 0; i < array.GetLength(1); i++)
     {
         double sum = 0;
         double answer = 0;
-        for (int i = 0; i < array.GetLength(1); i++)
+        for (int j = 0; j < array.GetLength(0); j++)
         {
-            sum += array[i, j];
+            sum += array[j, i];
         }
 
         answer = sum / array.GetLength(0);
-        
-        Console.WriteLine($"Среднее арифметическое элементов в столбце {j} = {answer,4} ");
 
+        Console.WriteLine($"Среднее арифметическое элементов в столбце {i} = {answer,4} ");
     }
 }
 
